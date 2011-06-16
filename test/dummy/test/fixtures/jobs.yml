@@ -1,0 +1,8 @@
+checked_out_job:
+  checked_out_by_user_id: 1
+  checked_out_by_user_type: User
+  checked_out_at: 2011-06-16 14:02:57
+  name: Job 1
+
+available_job:
+  name: Job 2
